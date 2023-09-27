@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Company>
+    <Employee>
+        <FirstName></FirstName>
+        <LastName></LastName>
+        <ContactNo></ContactNo>
+        <Email></Email>
+        <Address>
+            <City></City>
+            <State></State>
+            <Zip></Zip>
+        </Address>
+    </Employee>
+</Company>

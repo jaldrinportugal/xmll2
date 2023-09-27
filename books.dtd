@@ -1,0 +1,12 @@
+<!ELEMENT books (book)>
+<!ELEMENT book (authors, title, publisher, datepublished)>
+<!ELEMENT authors (author)>
+<!ELEMENT author (name, age)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT datepublished (month ,day, year)>
+<!ELEMENT month (#PCDATA)>
+<!ELEMENT day (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
