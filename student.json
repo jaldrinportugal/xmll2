@@ -1,0 +1,55 @@
+
+{
+    "students":[
+    {
+        "name":"Aldrin",
+        "age":20,
+        "adrress":"Samal"
+    },
+    {
+        "name":"Juanito",
+        "age":48,
+        "adrress":"Samal"
+    },
+    {
+        "name":"Denn",
+        "age":20,
+        "adrress":"Samal"
+    },
+    {
+        "name":"Carl",
+        "age":21,
+        "adrress":"Orani"
+    },
+    {
+        "name":"Rostelyn",
+        "age":21,
+        "adrress":"Orani"
+    },
+    {
+        "name":"Reyel",
+        "age":21,
+        "adrress":"Samal"
+    },
+    {
+        "name":"Natalie",
+        "age":21,
+        "adrress":"Samal"
+    },
+    {
+        "name":"Jeremy",
+        "age":21,
+        "adrress":"Samal"
+    }
+    {
+        "name":"David",
+        "age":21,
+        "adrress":"Samal"
+    },
+    {
+        "name":"Patrick",
+        "age":21,
+        "adrress":"Bagac"
+    }
+]
+}
